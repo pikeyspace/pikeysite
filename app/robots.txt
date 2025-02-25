@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://pikey.site/sitemap.xml
